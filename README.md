@@ -1,5 +1,5 @@
 # The-Movie
-very simple project to show collection movie from (MovieDb]{https://www.themoviedb.org/)
+very simple project to show collection movie from [MovieDb](https://www.themoviedb.org/)
 
 ## Tech
 - Coroutine
